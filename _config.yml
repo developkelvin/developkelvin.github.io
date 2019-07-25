@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "ML & Optimization"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kelvin"
-description              : "Interest in optimization. reinforcement learning and operations research. currently working at KITECH as undergraduate research assistant"
+description              : ""
 url                      : "https://developkelvin.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
 repository               : "developkelvin/developkelvin.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,15 +107,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Kelvin Jung"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Interest in optimization. reinforcement learning and operations research. currently working at KITECH as undergraduate research assistant"
   location         : "Seoul"
-  email            :
+  email            : "developer.kelvin@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: "developer.kelvin@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
