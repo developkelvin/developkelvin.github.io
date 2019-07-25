@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Kelvin"
+description              : "Interest in optimization. reinforcement learning and operations research. currently working at KITECH as undergraduate research assistant"
 url                      : "https://developkelvin.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
 repository               : "developkelvin/developkelvin.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -110,7 +110,7 @@ author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  location         : "Seoul"
   email            :
   links:
     - label: "Email"
