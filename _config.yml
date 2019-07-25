@@ -7,7 +7,7 @@ header-img:
 email: developer.kelvin@gmail.com
 description: 
 keyword: 
-url: "https://developer-kelvin.github.io"              # your host, for absolute URL
+url: "https://developkelvin.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
