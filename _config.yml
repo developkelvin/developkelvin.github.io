@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Kelvin Jung"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Interest in optimization. reinforcement learning and operations research. currently working at KITECH as undergraduate research assistant"
+  bio              : "Interest in optimization, reinforcement learning and operations research. currently working at KITECH as undergraduate research assistant"
   location         : "Seoul"
   email            : "developer.kelvin@gmail.com"
   links:
